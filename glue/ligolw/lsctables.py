@@ -3041,6 +3041,7 @@ class SimInspiralTable(table.Table):
 		"phi0": "real_4",
 		"f_lower": "real_4",
 		"f_final": "real_4",
+		"f_ref": "real_4",
 		"eff_dist_h": "real_4",
 		"eff_dist_l": "real_4",
 		"eff_dist_g": "real_4",
